@@ -1,3 +1,9 @@
+# 📢 ANNOUNCEMENT [ ARCHIVED ]
+
+# REPOSITORY HAS BEEN TRANSFERED TO <br/>• [ModernPy-Development/pycord_btns_menus](https://github.com/ModernPy-Development/pycord_btns_menus)
+
+<hr/>
+
 # Package Name: <a href='https://pypi.org/project/pycord-btns-menus/'> pycord-btns-menus </a>
 
 #### A responsive package for Buttons, DropMenus, Combinations and Paginator
@@ -25,31 +31,3 @@
 ### <li> Paginator `for help commands` </li>
 
 <hr/>
-
-# Installation
-
-Python 3.8 or higher is required !
-
-```shell
-# Linux/macOS
-  python3 -m pip install pycord-btns-menus
-
-# Windows
-  # Method-1:
-    py -3 -m pip install pycord-btns-menus
-    # or
-    python -m pip install pycord-btns-menus
-  # Method-2:
-    pip install pycord-btns-menus
-
-# Using GIT for ALPHA or BETA Versions
-  # Method-1:
-    pip install git+https://github.com/skrphenix/pycord_btns_menus.git
-  # Method-2:
-    pip install git+https://github.com/skrphenix/pycord_btns_menus
-```
-
-<p style="font-weight: bold;"><span style="color: red;">Note: </span>
-Make sure to install <a href="https://pypi.org/project/py-cord/">
-<u> py-cord</u></a> package
-</p>
