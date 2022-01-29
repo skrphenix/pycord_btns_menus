@@ -1,6 +1,6 @@
-# 📢 ANNOUNCEMENT [ ARCHIVED ]
+# 📢 ANNOUNCEMENT [![Generic badge](https://img.shields.io/badge/ARCHIVED-ff0000.svg)](https://shields.io/)
 
-# REPOSITORY HAS BEEN TRANSFERED TO <br/>• [Modern-Realm/pycord_btns_menus](https://github.com/Modern-Realm/pycord_btns_menus)
+## Repository has been TRANSFERRED to [Modern-Realm/pycord_btns_menus](https://github.com/Modern-Realm/pycord_btns_menus)
 
 <hr/>
 
@@ -28,6 +28,6 @@
 
 ### <li> Combinations (Usage of both Buttons & DropMenus) </li>
 
-### <li> Paginator `for help commands` </li>
+### <li> Paginator [![Generic badge](https://img.shields.io/badge/NEW-gold.svg)](https://shields.io/) </li>
 
 <hr/>
