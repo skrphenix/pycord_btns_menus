@@ -1,6 +1,6 @@
 # 📢 ANNOUNCEMENT [ ARCHIVED ]
 
-# REPOSITORY HAS BEEN TRANSFERED TO <br/>• [ModernPy-Development/pycord_btns_menus](https://github.com/ModernPy-Development/pycord_btns_menus)
+# REPOSITORY HAS BEEN TRANSFERED TO <br/>• [Modern-Realm/pycord_btns_menus](https://github.com/Modern-Realm/pycord_btns_menus)
 
 <hr/>
 
