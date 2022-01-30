@@ -4,7 +4,7 @@
 
 <hr/>
 
-# Package Name: <a href='https://pypi.org/project/discord-btns-menus/'> discord-btns-menus </a> [![Generic badge](https://img.shields.io/badge/RENAMED-lime.svg)](https://shields.io/)
+# Package Name: <a href='https://pypi.org/project/discord-btns-menus/'> discord-btns-menus</a> [![Generic badge](https://img.shields.io/badge/RENAMED-lime.svg)](https://shields.io/)
 
 #### A responsive package for Buttons, DropMenus, Combinations and Paginator
 
