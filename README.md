@@ -1,10 +1,10 @@
 # 📢 ANNOUNCEMENT [![Generic badge](https://img.shields.io/badge/ARCHIVED-ff0000.svg)](https://shields.io/)
 
-## Repository has been TRANSFERRED to [Modern-Realm/pycord_btns_menus](https://github.com/Modern-Realm/pycord_btns_menus)
+## Repository has been TRANSFERRED to [Modern-Realm/discord_btns_menus](https://github.com/Modern-Realm/discord_btns_menus)
 
 <hr/>
 
-# Package Name: <a href='https://pypi.org/project/pycord-btns-menus/'> pycord-btns-menus </a>
+# Package Name: <a href='https://pypi.org/project/discord-btns-menus/'> discord-btns-menus </a>
 
 #### A responsive package for Buttons, DropMenus, Combinations and Paginator
 
